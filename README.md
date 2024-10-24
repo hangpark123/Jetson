@@ -1,6 +1,6 @@
 # Jetson
 
-<h1> sdcard format </h1>
+<h2> sdcard format </h2>
 ![sd포멧](https://github.com/user-attachments/assets/0b5c3361-bab3-4de9-8adb-b4eab299f9ad)
 
 sdcard format 
