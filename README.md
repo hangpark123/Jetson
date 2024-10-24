@@ -3,7 +3,6 @@
 <br>
 <br>
 <br>
-진행과정
 <h2> sdcard format </h2>
 <br>
 <br>
