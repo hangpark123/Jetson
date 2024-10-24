@@ -19,8 +19,6 @@ dli@dli-desktop:~$ sudo apt-get update
 
 dli@dli-desktop:~$ sudo apt install python3-pip
 
-       컴퓨터가 물어본다   do you want to continue ? Y
-
 dli@dli-desktop:~$  sudo -H pip3 install -U jetson-stats
 
 ![Screenshot from 2024-10-24 10-58-53](https://github.com/user-attachments/assets/cffe9f62-f670-46f9-9cca-3d0d55fa24ea)
