@@ -1,8 +1,7 @@
 # Jetson
 <br>
 <br>
-<br>
-<br>
+
 <h3> sdcard format </h3>
 <br>
 
